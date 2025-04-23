@@ -73,4 +73,4 @@ Imagens de placeholder foram usadas para projetos, blog e fundos parallax. Subst
 🤝 Contribuições
 Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias ou correções.
 📧 Contato
-Desenvolvido por Grok (xAI) para Eduardo Garcia. Para dúvidas ou ajustes adicionais, entre em contato via contact@systech.com.
+Desenvolvido por Eduardo Garcia
