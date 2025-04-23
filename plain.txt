@@ -1,0 +1,16 @@
+SysTech-Website/
+│
+├── index.html           # Página principal
+├── solutions.html       # Página de serviços
+├── contact.html         # Página de contato
+├── css/
+│   ├── styles.css       # Estilos principais
+│   └── animations.css   # Animações
+├── js/
+│   └── scripts.js       # Scripts JavaScript
+├── assets/
+│   ├── img/
+│   │   └── logo-systech.png  # Logo da empresa
+│   └── icons/
+│       └── favicon.ico       # Favicon
+└── README.md            # Documentação do projeto
